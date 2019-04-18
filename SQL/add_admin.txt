@@ -1,0 +1,1 @@
+INSERT INTO user VALUES(1,'admin','ä«óùêl','1997-03-23','password','1953-01-01','1953-01-01');
